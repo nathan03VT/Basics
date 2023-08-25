@@ -1,3 +1,4 @@
 # CS3704 SE Basics Workshop
-Hello GitHub!
+Nathan Roberts  
+Hello GitHub!  
 Hello! Update: Fri Aug 25 13:44:07 EDT 2023
