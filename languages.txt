@@ -1,0 +1,21 @@
+Nathan Roberts(nathan03)
+Ijahmin Balser (Ijahminb)
+
+- What is your favorite programming language? Why?
+
+Partner:  C, enjoys the low-levelness compared to Java. 
+
+
+Personally, C++ is my favorite language because it was one of the first programming languages I learned. Beyond that, it supports functional, procedural, and object-oriented programming. Its compile time and execution time are very fast but there are language models that are faster. C++ was created in 1979 meaning that it has extensive external support in the form of educational material, vast array of external libraries and great community support.
+
+
+
+- Is your favorite language the one you are also more experienced with? If not, which language are you most experienced with?
+
+Partner: Java, schooling led him down the path of using it more.
+
+As a programmer, I originally started coding when I was in my sophomore year of high school(HS) where I used C++ for a singled class
+and web development languages like HTML/CSS/JavaScript for my extracurriculars. But, as I moved to my upperclass years in HS, became a student at Virginia Tech, and participated in internships I noticed that I was being guided towards using more commerically available languages like Java, Python and C in my everyday experiences. 
+
+Therefore, I will state that my favorite language (C++) is not the language that I have the most experience with, but rather Java and Python are languages that I am most familiar with.
+
